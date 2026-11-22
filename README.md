@@ -18,7 +18,7 @@
 ## 🌟 What is WariMitra AI?
 
 **WariMitra AI** (वारीमित्र) is a **voice-first AI assistant** built specifically for Warkaris — pilgrims undertaking the sacred Pandharpur Wari pilgrimage. 
-
+U2VQQ4
 No smartphone required. No app to install. Just **one call in Marathi** to get:
 - 🏥 Nearest medical facilities, doctors, pharmacies
 - 💧 Water stations and essential amenities  
